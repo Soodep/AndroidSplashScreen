@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSplashScreen</string>
+    <string name="android_splash_screen">Android Splash Screen Tutorial</string>
+    <string name="action_settings">Settings</string>
+    <string name="poweredby">Powered by <u>Code Sastra</u></string>
+    <string name="brandname">Dunga Restro and Launge Bar</string>
+</resources>
